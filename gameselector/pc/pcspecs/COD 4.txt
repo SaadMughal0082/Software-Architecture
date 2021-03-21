@@ -1,0 +1,15 @@
+Call of Duty 4: Modern Warfare Requirements:
+CPU: 2.4 GHz dual core or better
+CPU SPEED: 2.4 GHz dual core or better
+RAM: 1 GB (2 GB for Windows Vista
+OS: Windows XP/Vista
+VIDEO CARD: 3.0 Shader Support recommended. Nvidia Geforce 7800 or better or ATI Radeon X1800 or better
+3D: Yes
+HARDWARE T&L: Yes
+PIXEL SHADER: 3.0
+VERTEX SHADER: 3.0
+DIRECTX VERSION: 9.0c
+SOUND CARD: Yes
+FREE DISK SPACE: 8 GB of uncompressed free hard disk space (plus 600 MB for Windows swap file)
+DVD-ROM: 6X DVD-ROM
+DEDICATED VIDEO RAM: 256 MB

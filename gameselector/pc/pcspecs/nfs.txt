@@ -1,0 +1,7 @@
+Need for Speed: Most Wanted System Requirements:
+CPU: Pentium 4 or Athlon XP.
+CPU SPEED: 1.4 GHz.
+RAM: 256 MB.
+OS: Windows 2000/XP.
+VIDEO CARD: 32 MB DirectX 9.0c compatible 3D video card (NVIDIA GeForce2 MX+ / ATI Radeon 7500+ / Intel 915+)
+TOTAL VIDEO RAM: 32 MB.

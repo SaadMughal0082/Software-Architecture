@@ -1,0 +1,5 @@
+WWE 2K20 SYSTEM REQUIREMENTS:
+Processor: Intel Core i5-3550 / AMD FX 8150.
+ Memory: 4 GB RAM. 
+Graphics: NVIDIA GeForce GTX 680 / AMD Radeon HD 7850.
+ DirectX: Version 11

@@ -1,0 +1,10 @@
+
+CS System Requirements:
+CPU: Intel Pentium Dual-Core E5700 3GHz / AMD Phenom 8750 Triple-Core
+RAM: 2 GB
+HDD: 15 GB of storage space
+GPU: NVIDIA GeForce GT 630 / AMD Radeon HD 6670
+OS: Windows 7
+DirectX: Version 9.0c
+Screen Resolution: 1080p
+Network: Broadband Internet Connection

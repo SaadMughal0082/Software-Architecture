@@ -1,0 +1,8 @@
+OUT OF ORDER system Requirements:
+OS: Win 7 64.
+Processor: Intel Core 2 Duo E8200 2.66GHz / AMD Phenom II X2 545.
+Graphics: AMD Radeon HD 5550 1024MB or NVIDIA GeForce GT 430.
+VRAM: 512MB.
+System Memory: 3 GB RAM.
+Storage: 50 GB Hard drive space.
+DirectX 11 Compatible Graphics Card.

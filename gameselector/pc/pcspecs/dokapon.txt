@@ -1,0 +1,2 @@
+Dokapon system requirements:
+Minimum Windows XP Service Pack 2 or Linux CPU that supports SSE2 (Intel Pentium 4 or AMD Athlon 64) GPU that supports DirectX 9.0 (NVIDIA GeForce FX series or ATi Radeon R300 series) 1 GB RAM Recommended (will run 50-60fps) Windows XP, Vista, 7 or Linux.

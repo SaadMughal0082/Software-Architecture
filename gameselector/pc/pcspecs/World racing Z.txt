@@ -1,0 +1,3 @@
+World racing Z system requirements:
+Your PC will need a graphics card thats as powerful as a GeForce GT 320/Radeon X800 XL 
+it should be paired with either a Athlon 64 X2 Dual Core 5000+/Core 2 Duo E6400 2.13GHz CPU

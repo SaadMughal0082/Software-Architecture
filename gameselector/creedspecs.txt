@@ -1,0 +1,12 @@
+CPU: Intel Core 2 Duo 2.2 GHz or AMD Athlon 64 X2 4400+ or better
+RAM: 1 GB Windows Xp / 2 GB Windows Vista
+OS: Windows XP/Windows Vista (only)
+VIDEO CARD: 256 MB DirectX 10.0compliant video card or DirectX 9.0compliant card with Shader Model 3.0 or higher (NVIDIA GeForce 6800+ / ATI Radeon X1600+)
+TOTAL VIDEO RAM: 256 MB
+3D: Yes
+HARDWARE T&L: Yes
+PIXEL SHADER: 3.0
+VERTEX SHADER: 3.0
+DIRECTX VERSION: DirectX 9.0 or10.0 libraries (included on disc)
+SOUND CARD: Yes
+FREE DISK SPACE: 8 GB

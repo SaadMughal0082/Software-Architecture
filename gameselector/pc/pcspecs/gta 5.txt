@@ -1,0 +1,7 @@
+GTA 5 System Requirements:
+OS: Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit Service Pack 1
+Processor: Intel Core i5 3470 @ 3.2GHZ (4 CPUs) / AMD X8 FX-8350 @ 4GHZ (8 CPUs)
+Memory: 8GB
+Video Card: NVIDIA GTX 660 2GB / AMD HD7870 2GB
+Sound Card: 100% DirectX 10 compatible
+HDD Space: 65GB

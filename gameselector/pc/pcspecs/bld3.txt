@@ -1,0 +1,6 @@
+These are the Borderlands 3 system requirements:
+Memory:16 GB
+Graphics Card:NVIDIA GeForce GTX 1060
+Borderlands 3 CPU:Intel Core i7-4770
+File Size:75 GB
+OS:Windows 7 Upwards 64 bit

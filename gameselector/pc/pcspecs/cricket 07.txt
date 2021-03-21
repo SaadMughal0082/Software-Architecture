@@ -1,0 +1,5 @@
+Cricket-07 system Requirements:
+Processor: Intel Pentium 4 2.0GHz / AMD Athlon XP 2500+
+Graphics: AMD Radeon Xpress 1200 Series or NVIDIA GeForce 6200
+System Memory: 512 MB RAM
+Storage: 1.5 GB Hard drive space

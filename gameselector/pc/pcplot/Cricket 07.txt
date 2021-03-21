@@ -1,0 +1,15 @@
+Cricket 07  features a number of game types, including limited overs matches (50, 20, 10 or 5 overs), 4-day first-class matches and full-length test matches(5 days). You may select different pitches and different weather conditions in different venues.[1] Several international venues are available, including the Eden Gardens in India or Lord's in England. The venues vary in conditions and pitch type, and these can be changed by the player. In-game screenshot of Cricket 07, showing an ODI match between Australia (in green) and Sri Lanka (in blue) Expanded features of Cricket 07 include improved player control and easy stroke play, along with the introduction of the Ashes section. There was also an addition on commentary as Mark Nicholas joined Richie Benaud. The game gives players the option of entering different international and national contests, including full seasons and tournaments: 
+World Championship: Control up to 16 international teams playing Limited Overs cricket for the World Cup trophy. 
+World Series: Control three to five teams playing in a day/night tournament in venues around Australia.
+Knockout Cup: Control eight teams playing in a limited over tournament to win the trophy.
+Test Series: Choose two teams to contest a series of one to six Test matches.
+Tour: Select a team and engage in a series of Tour, One Day, and Test matches with the host nation's teams. The tours are:
+Long Australia Tour
+Long England Tour
+Short Australia Tour
+Short England Tour
+Sub-Continent Tour
+Caribbean Tour
+South African Tour
+New Zealand and Zimbabwe Tour
+One-Day Circuit Tour

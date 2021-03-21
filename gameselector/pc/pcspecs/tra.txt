@@ -1,0 +1,6 @@
+Tomb raider: anniversary system Requirements:
+Processor: Intel Pentium 4 3.0GHz / AMD Athlon XP 3000+
+Graphics: AMD Radeon X1300 256MB or NVIDIA GeForce 6600 GT
+System Memory: 1 GB RAM
+Storage: 4 GB Hard drive space
+DirectX 9 Compatible Graphics Card

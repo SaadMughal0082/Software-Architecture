@@ -1,0 +1,4 @@
+Prince of Persia (2008) system requirements:
+ Radeon X800 GTO graphics card with a Core 2 Duo E4500 
+2.2GHz or Athlon 64 X2 Dual Core 4400+ processor to reach the recommended specs, achieving high graphics setting on 1080p.
+ The RAM requirements are at least a 2 GB memory. You will require a DirectX 9 GPU.

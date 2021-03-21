@@ -1,0 +1,7 @@
+DOTA 2 system Requirements:
+OS: Win 7 64
+Processor: Intel Core 2 Duo E7400 2.80GHz / AMD Athlon 64 X2 Dual Core 5600+
+Graphics: AMD Radeon HD 2600 Pro or NVIDIA GeForce 8600 GTS 512MB
+System Memory: 4 GB RAM
+Storage: 8 GB Hard drive space
+DirectX 9 Compatible Graphics Card
